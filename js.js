@@ -45,11 +45,11 @@ $(function () {
       ],
       albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
       trackUrl = [
-        "https://github.com/alacerdalcgbr/notion-music-player/blob/main/songs/nwjns_ditto_01.mp3?raw=true",
-        "https://github.com/alacerdalcgbr/notion-music-player/blob/main/songs/nwjns_hurt_02.mp3?raw=true",
-        "https://github.com/alacerdalcgbr/notion-music-player/blob/main/songs/nwjns_cookie_03.mp3?raw=true",
-        "https://github.com/alacerdalcgbr/notion-music-player/blob/main/songs/nwjns_hype_boy_04.mp3?raw=true",
-        "https://github.com/alacerdalcgbr/notion-music-player/blob/main/songs/nwjns_attention_05.mp3?raw=true"
+        "https://raw.githubusercontent.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_01.mp3",
+        "https://raw.githubusercontent.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_02.mp3",
+        "https://raw.githubusercontent.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_03.mp3",
+        "https://raw.githubusercontent.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_04.mp3",
+        "https://raw.githubusercontent.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_05.mp3"
       ],
       playPreviousTrackButton = $("#play-previous"),
       playNextTrackButton = $("#play-next"),

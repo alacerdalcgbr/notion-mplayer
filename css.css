@@ -103,7 +103,7 @@
   
   #track-time.active #current-time,
   #track-time.active #track-length {
-    color: #f86d92;
+    color: #1250B5;
     background-color: transparent;
   }
   
@@ -151,7 +151,7 @@
     bottom: 0;
     left: 0;
     width: 0;
-    background-color: #fd6d94;
+    background-color: #1250B5;
     transition: 0.2s ease width;
     z-index: 1;
   }
