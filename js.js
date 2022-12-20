@@ -45,11 +45,11 @@ $(function () {
       ],
       albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
       trackUrl = [
-        "https://raw.githubusercontent.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_01.mp3",
-        "https://raw.githubusercontent.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_02.mp3",
-        "https://raw.githubusercontent.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_03.mp3",
-        "https://raw.githubusercontent.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_04.mp3",
-        "https://raw.githubusercontent.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_05.mp3"
+        "https://github.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_01.mp3?raw=true",
+        "https://github.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_02.mp3?raw=true",
+        "https://github.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_03.mp3?raw=true",
+        "https://github.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_04.mp3?raw=true",
+        "https://github.com/alacerdalcgbr/notion-mplayer/blob/main/songs/music_05.mp3?raw=true"
       ],
       playPreviousTrackButton = $("#play-previous"),
       playNextTrackButton = $("#play-next"),
